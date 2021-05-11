@@ -11,18 +11,14 @@ body {
   background-color: transparent;
 }
 p {
-  font-family: jaf-bernino-sans-condensed, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 12;
-  color: #0d160b;
+font-family: ;
+font-size: ;
+color: ;
 }
 /*Leo: here is paragraph and header styling*/
 h1,h2,h3,h4 {
-  font-family: continuo,sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color: #033863;
+  font-family: ;
+  color: ;
 }
 
 #container-a, #container-b{
@@ -43,7 +39,7 @@ h1,h2,h3,h4 {
   flex: 65%;
   padding: 10px;
   /*Leo:pick a color for the main paragraph, be consistent with landing page's main*/
-  background-color: #db312a;
+  background-color: #ebc257;
   border: solid transparent;
   border-radius: 20px;
 
@@ -80,7 +76,7 @@ margin: 0px auto 0px auto;
 
 .block p {
   /*Leo: chose color for caption boxes from color sheet*/
-  background-color: #eb8e4b;
+  background-color: crimson;
   padding: 5px;
   border-radius: 5px;
   margin-top: 5px;
@@ -111,7 +107,7 @@ margin: 0px auto 0px auto;
 
 .block-l p {
   /*Leo: chose color for caption boxes from color sheet SAME AS .block*/
-  background-color: #eb8e4b;
+  background-color: crimson;
   padding: 5px;
   border-radius: 5px;
   margin-top: 5px;
@@ -128,24 +124,18 @@ margin: 0px auto 0px auto;
 .bottom {
   padding: 10px;
   /*Leo: this is the box for the sources, chose a different color from main and caption boxes*/
-  background-color: #aaebc2;
+  background-color: #ebc257;
   border: solid transparent;
   border-radius: 20px;
 }
 .bottom h4 {
   /*Leo: this is the title for the sources box, chose a font and or color*/
-  font-family: continuo,sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color: #033863;
+  font-family: ;
+  color: ;
 }
 
 a {
   /*Leo: this is if you want to style the fonts/decorations/color for the links*/
-  font-family: jaf-bernino-sans-condensed, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  color: #0d160b;
 }
 
 .nav-item a {

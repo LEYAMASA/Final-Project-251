@@ -29,27 +29,21 @@ html {
   right: 2%;
   top: 40%;
   /*Leo: this is where you can place background color*/
-  background-color: #db312a;
+  background-color: #ebc257;
   border:solid transparent;
   border-radius: 20px;
 }
 
 #main p {
   /*Leo: this is where you can place fonts and font color*/
-  color: #0d160b;
+  color: ;
   /*Leo: dont forget to link fonts in HTML*/
-  font-family: jaf-bernino-sans-condensed, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 12;
+  font-family: ;
+  font-size: ;
 }
 
 h1,h2,h3,h4 {
   /*Leo: this is where you can place fonts and font color*/
-  color: #033863;
-  font-family: continuo,sans-serif;
-  font-weight: 400;
-  font-style: normal;
 }
 
 #image {
