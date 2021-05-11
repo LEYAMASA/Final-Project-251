@@ -29,36 +29,52 @@ html {
   right: 2%;
   top: 40%;
   /*Leo: this is where you can place background color*/
-  background-color: #ebc257;
+  background-color: #db312a;
   border:solid transparent;
   border-radius: 20px;
 }
 
 #main p {
   /*Leo: this is where you can place fonts and font color*/
-  color: ;
+  color: #0d160b;
   /*Leo: dont forget to link fonts in HTML*/
-  font-family: ;
-  font-size: ;
+  font-family: jaf-bernino-sans-condensed, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 12;
 }
 
 h1,h2,h3,h4 {
   /*Leo: this is where you can place fonts and font color*/
+  color: #033863;
+  font-family: continuo,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  font-size: 150px;
+  background-color: #aaebc2;
+  border-radius: 20px;
 }
 
 #image {
   float:left;
-  position:absolute;
-  left:0%;
-  bottom:0%;
+  position: fixed;
+  left:-3%;
+  bottom:-30%;
+
 }
 
 #image img {
-  width: 80%;
-  min-width: 300px;
+  width: 90%;
+  min-width: 500px;
 }
 
 .nav-item a {
   color: white;
   margin: 0px 10px 0px 10px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
 }
